@@ -43,59 +43,7 @@ exports[`should render a list of teams 1`] = `
               View
             </button>
           </a>
-          <a
-            href="/teams/2/edit"
-          >
-            <button
-              class="btn-edit"
-              type="button"
-            >
-              Edit
-            </button>
-          </a>
-          <button
-            class="btn-delete"
-            type="button"
-          >
-            Delete
-          </button>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-            href="/teams/7"
-          >
-            Goodlanders
-          </a>
-        </td>
-        <td>
-          <a
-            href="/teams/7"
-          >
-            <button
-              class="btn-view"
-              type="button"
-            >
-              View
-            </button>
-          </a>
-          <a
-            href="/teams/7/edit"
-          >
-            <button
-              class="btn-edit"
-              type="button"
-            >
-              Edit
-            </button>
-          </a>
-          <button
-            class="btn-delete"
-            type="button"
-          >
-            Delete
-          </button>
+          <div />
         </td>
       </tr>
       <tr>
@@ -103,7 +51,7 @@ exports[`should render a list of teams 1`] = `
           <a
             href="/teams/3"
           >
-            Lakeville Thunderfeet
+            Lakeville Thuderfeet
           </a>
         </td>
         <td>
@@ -117,22 +65,7 @@ exports[`should render a list of teams 1`] = `
               View
             </button>
           </a>
-          <a
-            href="/teams/3/edit"
-          >
-            <button
-              class="btn-edit"
-              type="button"
-            >
-              Edit
-            </button>
-          </a>
-          <button
-            class="btn-delete"
-            type="button"
-          >
-            Delete
-          </button>
+          <div />
         </td>
       </tr>
       <tr>
@@ -140,7 +73,7 @@ exports[`should render a list of teams 1`] = `
           <a
             href="/teams/4"
           >
-            Mt. Hoodies
+            Mt. boobies
           </a>
         </td>
         <td>
@@ -154,22 +87,7 @@ exports[`should render a list of teams 1`] = `
               View
             </button>
           </a>
-          <a
-            href="/teams/4/edit"
-          >
-            <button
-              class="btn-edit"
-              type="button"
-            >
-              Edit
-            </button>
-          </a>
-          <button
-            class="btn-delete"
-            type="button"
-          >
-            Delete
-          </button>
+          <div />
         </td>
       </tr>
       <tr>
@@ -191,35 +109,20 @@ exports[`should render a list of teams 1`] = `
               View
             </button>
           </a>
-          <a
-            href="/teams/1/edit"
-          >
-            <button
-              class="btn-edit"
-              type="button"
-            >
-              Edit
-            </button>
-          </a>
-          <button
-            class="btn-delete"
-            type="button"
-          >
-            Delete
-          </button>
+          <div />
         </td>
       </tr>
       <tr>
         <td>
           <a
-            href="/teams/5"
+            href="/teams/9"
           >
-            Stumptown Lumberjacks
+            a new team
           </a>
         </td>
         <td>
           <a
-            href="/teams/5"
+            href="/teams/9"
           >
             <button
               class="btn-view"
@@ -228,59 +131,7 @@ exports[`should render a list of teams 1`] = `
               View
             </button>
           </a>
-          <a
-            href="/teams/5/edit"
-          >
-            <button
-              class="btn-edit"
-              type="button"
-            >
-              Edit
-            </button>
-          </a>
-          <button
-            class="btn-delete"
-            type="button"
-          >
-            Delete
-          </button>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-            href="/teams/6"
-          >
-            Vancougars
-          </a>
-        </td>
-        <td>
-          <a
-            href="/teams/6"
-          >
-            <button
-              class="btn-view"
-              type="button"
-            >
-              View
-            </button>
-          </a>
-          <a
-            href="/teams/6/edit"
-          >
-            <button
-              class="btn-edit"
-              type="button"
-            >
-              Edit
-            </button>
-          </a>
-          <button
-            class="btn-delete"
-            type="button"
-          >
-            Delete
-          </button>
+          <div />
         </td>
       </tr>
     </tbody>
